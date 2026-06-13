@@ -56,17 +56,17 @@ PROJECTS = [
 
 # ---- Per-role tailoring ----
 ROLES = {
-    "Charlie_Health_Continuing_Care_Coordinator": {
-        "headline": "Behavioral Health Care Coordinator — Care Transitions & Discharge Planning",
-        "summary": ("Behavioral health professional with integrated-care and SAMHSA population-health experience "
-                    "coordinating care across multidisciplinary teams. Skilled in discharge planning, referral-source "
-                    "communication, behavioral health screening, and connecting patients to appropriate aftercare resources. "
-                    "Translate clinical practice into reliable, high-quality coordination that supports smooth care transitions "
-                    "and strong patient outcomes in virtual care settings."),
-        "skills": ["Care Transitions & Discharge Planning", "Referral-Source Communication",
-                   "Behavioral Health Screening & Risk Triage", "Aftercare Resource Navigation",
-                   "Multidisciplinary Collaboration", "Documentation & Data Integrity",
-                   "Virtual / Telehealth Care", "SAMHSA Population Health"],
+    "Two_Chairs_Care_Coordinator": {
+        "headline": "Care Coordinator — Client Journey, Scheduling & Care Operations",
+        "summary": ("Behavioral health professional with integrated-care and SAMHSA population-health experience supporting "
+                    "clients through every step of their care journey. Skilled in scheduling logistics, answering care, "
+                    "billing, and insurance questions, and partnering with clinical teams on the operational workflows that "
+                    "keep care running smoothly. Translate clinical practice into reliable, repeatable processes that improve "
+                    "the client experience in virtual care settings."),
+        "skills": ["Client Care Coordination", "Scheduling & Logistics",
+                   "Billing & Insurance Navigation", "Clinical-Team Operations Support",
+                   "Behavioral Health Screening & Triage", "Documentation & Data Integrity",
+                   "Virtual / Telehealth Care", "Process Improvement"],
     },
     "Included_Health_Member_Care_Advocate": {
         "headline": "Healthcare Member Advocate — Care Navigation & Patient Support",
