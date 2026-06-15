@@ -56,6 +56,18 @@ PROJECTS = [
 
 # ---- Per-role tailoring ----
 ROLES = {
+    "DelRicht_Research_Healthcare_Project_Coordinator": {
+        "headline": "Healthcare Project Coordinator — Clinical Research Start-Up & Operations",
+        "summary": ("Healthcare professional who turns clinical complexity into organized, on-time operations. Experienced in "
+                    "grant- and protocol-driven workflows with strict timeframes, meticulous documentation and data integrity, "
+                    "and coordination across multidisciplinary teams and external stakeholders. Comfortable with EMR systems, "
+                    "medical terminology, and standardized technical procedures; known for ownership, follow-through, and calm, "
+                    "accurate execution while balancing multiple priorities at once."),
+        "skills": ["Project & Study Start-Up Coordination", "Documentation & Data Integrity",
+                   "Deadline & Competing-Priority Management", "Stakeholder & Vendor Communication",
+                   "EMR & Medical Terminology", "Workflow / Process Improvement",
+                   "Standardized Procedures & Accuracy", "Technical Systems / Configuration"],
+    },
     "Two_Chairs_Care_Coordinator": {
         "headline": "Care Coordinator — Client Journey, Scheduling & Care Operations",
         "summary": ("Behavioral health professional with integrated-care and SAMHSA population-health experience supporting "

@@ -50,6 +50,11 @@
 ---
 
 ## TIER C — New Orleans LOCAL (local roles weight your Ochsner internal history)
+- **⭐ DelRicht Research — Healthcare Project Coordinator (Onsite, New Orleans)** — STRONG fit + you found it. NOLA-HQ clinical research company; this is a **non-patient-facing, project/ops/study-start-up** role — exactly the systems-level direction you want. Local candidates prioritized (✅ you). Bachelor's + 1 yr req (you far exceed). Onsite M–F. Perks: medical/dental/vision, 401k + match, quarterly bonus, PTO, pro-dev program.
+  - **Resume:** `resumes/Randon_Heim_Resume_DelRicht_Research_Healthcare_Project_Coordinator.docx`
+  - **Cover letter:** `cover_letters/Randon_Heim_CoverLetter_DelRicht_Healthcare_Project_Coordinator.docx`
+  - **Outreach:** `outreach/Outreach_Emails.md` → DelRicht note
+  - **Apply:** via the posting you found (DelRicht careers / the board it's listed on).
 - **✅ Ochsner Health — Behavioral Health Centralized Intake Coordinator (Days, Elmwood)** — CONFIRMED LIVE 6/15, direct link below. Note: this is a dispatcher/bed-board patient-placement + referral-intake role (system-wide acute BH placement). → *apply, then email Dr. Sawyer for an internal nudge.*
   - Apply (Days): https://careers.ochsner.org/job/jefferson/behavioral-health-centralized-intake-coordinator-days-elmwood/47519/89182428512
   - Apply (Days 6a–3p): https://careers.ochsner.org/job/jefferson/behavioral-health-centralized-intake-coordinator-days-6a-3p-elmwood/47519/76413956592
