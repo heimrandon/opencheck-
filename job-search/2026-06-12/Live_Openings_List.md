@@ -3,35 +3,35 @@
 **Scope today:** Remote (incl. MS/AL-based remote employers) + New Orleans local
 **Eligibility note:** You are NOT independently licensed (LCSW/LPC/LMFT), so I screened OUT licensed-only roles.
 
-**What changed today (6/15):** All 3 Tier A roles re-confirmed live. Two Chairs shift detail added (9–5 PST/ET — works for Central). Included Health now also posting a **bilingual** MCA. Lyra's current shift is **Sun–Thu 11:30am–8pm PT (1:30–10pm CT)** — heads-up, it's an evening schedule now. Two NOLA-local roles (Ochsner Intake Coordinator, LCMC Program Coordinator) **confirmed actively posted.**
+**What changed today (6/15 PM):** ⚠️ **Two Chairs Care Coordinator looks CLOSED** — the posting is from Jan 23 and only survives on aggregator sites; it doesn't come up in their real application system. Demoted to "verify directly." **Included Health is now your reliable top pick** (direct Lever links confirmed, 3 variants). **Ochsner intake role confirmed with a direct careers.ochsner.org link.** Lyra still live but evening shift (1:30–10pm CT).
 
 ---
 
-## TIER A — Apply TODAY (verified live 6/15, strong fit, you're eligible)
+## TIER A — Apply TODAY (direct links confirmed 6/15, strong fit, you're eligible)
 
-### 1. Two Chairs — Care Coordinator (Remote, US) ⭐ TOP PICK
-- **Pay:** $47,005–$61,295 (typical offer $47K–$55.3K) + equity, medical/dental/vision, 9 paid holidays, winter closure
-- **Schedule:** 8-hr shifts between 9am–5pm PST/ET — ✅ fine from Central time
-- **Fit:** Support clients through their care journey — answer care/billing/insurance questions and back the clinical team on scheduling and operational workflows. Non-clinical, exactly your translate-clinical-to-process strength.
-- **Resume:** `resumes/Randon_Heim_Resume_Two_Chairs_Care_Coordinator.docx`
-- **Apply:** https://jobs.maveron.com/companies/two-chairs/jobs/65816394-care-coordinator  ·  https://builtin.com/job/care-coordinator/4823696  ·  https://www.twochairs.com/careers
-- **Outreach:** `outreach/Outreach_Emails.md` → Two Chairs hiring-manager note
-
-### 2. Included Health — Member Care Advocate (Remote)
-- **Reqs:** Bachelor's + 2 yrs healthcare experience (you clear this easily). 8-week paid training @ 10am–7pm EST, M–F.
+### 1. Included Health — Member Care Advocate (Remote) ⭐ TOP PICK (reliable links)
+- **Reqs:** Bachelor's + 2 yrs healthcare experience (you clear this easily). Paid training @ 10am–7pm EST, M–F.
 - **Fit:** Clean non-clinical guide role; member navigation + high-volume compassionate communication.
-- **⚠️ Schedule caveat:** Training is 10–7 EST and includes weekends; you're Central — commit to the hours explicitly in your note.
+- **⚠️ Schedule:** Training is 10–7 EST; you're Central — commit to the hours explicitly in your note.
 - **Resume:** `resumes/Randon_Heim_Resume_Included_Health_Member_Care_Advocate.docx`
-- **Apply (standard):** https://jobs.lever.co/includedhealth/626901a5-f009-4c32-8438-03ed64ce954c
-- **Apply (bilingual, if applicable):** https://jobs.lever.co/includedhealth/931ea679-8602-4f97-bf19-eac511209413  ·  all roles: https://jobs.lever.co/includedhealth
+- **Apply — pick the variant that fits (all direct Lever links):**
+  - Standard MCA: https://jobs.lever.co/includedhealth/626901a5-f009-4c32-8438-03ed64ce954c
+  - Bilingual MCA (3-wk training): https://jobs.lever.co/includedhealth/621936e4-eead-4b35-87c0-8422b6fa3cd5
+  - Chat-Only / other MCA: https://jobs.lever.co/includedhealth/04e66b6f-381a-46cb-96b6-be58e1301be2/apply
+  - All roles: https://jobs.lever.co/includedhealth
 
-### 3. Lyra Health — Client Support Specialist (Remote)
+### 2. Lyra Health — Client Support Specialist (Remote)
 - **Pay:** ~$24/hr (~$50K)
 - **Fit:** First point of contact for clients seeking mental health care — intake + risk triage + benefit/product questions.
-- **⚠️ Schedule update (6/15):** Current posting is **Sun–Thu 11:30am–8pm PT = 1:30–10pm Central** (evenings + Sunday). High-volume contact-center environment. Apply only if the evening shift works for you.
-- **Note:** Also open: *Onboarding Support Specialist* and *Client Support Specialist – Billing* (same team — may have friendlier hours).
+- **⚠️ Schedule (6/15):** Current posting is **Sun–Thu 1:30–10pm Central** (evenings + Sunday). Apply only if that works.
 - **Resume:** `resumes/Randon_Heim_Resume_Lyra_Health_Client_Support_Specialist.docx`
-- **Apply:** https://careers.lyrahealth.com/job/remote/client-support-specialist/43250/93437667376
+- **Apply (direct):** https://careers.lyrahealth.com/job/remote/client-support-specialist/43250/93437667376
+
+### 3. Two Chairs — Care Coordinator (Remote) — ⚠️ VERIFY, likely closed
+- **Status:** Posting dated Jan 23, 2026; survives only on aggregators (Built In, Maveron, Teal). Does NOT appear in their live application system → probably filled.
+- **Do this:** Check **twochairs.com/careers** directly. If "Care Coordinator" isn't listed, it's closed — skip the aggregator links. Set a LinkedIn alert for the repost.
+- **Still current:** *Manager, Care Coordination* ($103K–$140K) — a stretch; ask me to tailor if interested.
+- **Resume (ready for when it reposts):** `resumes/Randon_Heim_Resume_Two_Chairs_Care_Coordinator.docx`
 
 ---
 
@@ -50,7 +50,9 @@
 ---
 
 ## TIER C — New Orleans LOCAL (local roles weight your Ochsner internal history)
-- **✅ Ochsner Health — Behavioral Health Centralized Intake Coordinator (Days, Elmwood)** — CONFIRMED LIVE 6/15. Apply via Ochsner Careers (ochsner.org/careers, search "Behavioral Health Centralized Intake") → *then email Dr. Sawyer for an internal nudge.*
+- **✅ Ochsner Health — Behavioral Health Centralized Intake Coordinator (Days, Elmwood)** — CONFIRMED LIVE 6/15, direct link below. Note: this is a dispatcher/bed-board patient-placement + referral-intake role (system-wide acute BH placement). → *apply, then email Dr. Sawyer for an internal nudge.*
+  - Apply (Days): https://careers.ochsner.org/job/jefferson/behavioral-health-centralized-intake-coordinator-days-elmwood/47519/89182428512
+  - Apply (Days 6a–3p): https://careers.ochsner.org/job/jefferson/behavioral-health-centralized-intake-coordinator-days-6a-3p-elmwood/47519/76413956592
 - **✅ LCMC Health — Program Coordinator (New Orleans)** — CONFIRMED LIVE 6/15. Apply via LCMC Careers / LinkedIn. Filter for behavioral-health-aligned teams.
 - **VOA Southeast Louisiana** — Behavioral Health Program Coordinator (Easy Apply + direct HR email). Re-check live status.
 - **AbsoluteCARE** (1523 St. Charles Ave) — Community Health Worker, Behavioral Health. Re-check live status.
@@ -71,14 +73,14 @@
 
 ---
 
-## Today's checklist (6/15)
-- [ ] Apply: Two Chairs Care Coordinator (+ send hiring-manager note) — TOP PICK
-- [ ] Apply: Included Health Member Care Advocate (state Central-time commitment)
-- [ ] Apply: Ochsner BH Centralized Intake Coordinator (confirmed live) + email Dr. Sawyer
-- [ ] Apply: LCMC Program Coordinator (confirmed live)
+## Today's checklist (6/15) — links verified
+- [ ] Apply: Included Health Member Care Advocate (direct Lever link) — TOP PICK, state Central-time commitment
+- [ ] Apply: Ochsner BH Centralized Intake Coordinator (direct link) + email Dr. Sawyer
+- [ ] Apply: LCMC Program Coordinator (LinkedIn link)
 - [ ] Apply: Lyra Client Support Specialist — ONLY if the evening shift (1:30–10pm CT) works
+- [ ] Verify Two Chairs at twochairs.com/careers; if Care Coordinator isn't listed, skip + set LinkedIn alert
 - [ ] Email: LPHI direct outreach
 
-**Sources:** [Two Chairs Care Coordinator (Maveron)](https://jobs.maveron.com/companies/two-chairs/jobs/65816394-care-coordinator) · [Included Health (Lever)](https://jobs.lever.co/includedhealth) · [Lyra Client Support Specialist](https://careers.lyrahealth.com/job/remote/client-support-specialist/43250/93437667376) · [Ochsner Jobs](https://www.indeed.com/q-ochsner-health-system-l-new-orleans,-la-jobs.html) · [LCMC Program Coordinator](https://www.linkedin.com/jobs/view/program-coordinator-at-lcmc-health-2955314259) · [Bamboo Health Careers](https://ats.rippling.com/bamboo-health-careers/jobs/7f7ed621-a8b9-476b-9aa1-2c468aa8076c)
+**Sources:** [Included Health MCA (Lever)](https://jobs.lever.co/includedhealth/626901a5-f009-4c32-8438-03ed64ce954c) · [Lyra Client Support Specialist](https://careers.lyrahealth.com/job/remote/client-support-specialist/43250/93437667376) · [Ochsner BH Intake Coordinator](https://careers.ochsner.org/job/jefferson/behavioral-health-centralized-intake-coordinator-days-elmwood/47519/89182428512) · [LCMC Program Coordinator](https://www.linkedin.com/jobs/view/program-coordinator-at-lcmc-health-2955314259) · [Two Chairs (aggregator, likely stale)](https://jobs.maveron.com/companies/two-chairs/jobs/65816394-care-coordinator)
 
 > **Note:** Charlie Health was removed at your request (mixed public/Reddit reputation). Two Chairs is the Tier A top pick.
