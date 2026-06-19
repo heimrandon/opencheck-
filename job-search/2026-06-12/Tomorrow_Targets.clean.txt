@@ -1,0 +1,51 @@
+Tomorrow's Targets — Operational + AI/Mental-Health Roles
+Researched June 15, 2026 · for Randon Heim
+Filters applied: No clinical licensure required · operational/ops-adjacent · plus a new "clinical expert for AI" track.
+Reminder from last time: aggregator listings go stale fast. Below I mark [PORTAL] (always-on application hubs — reliable) vs [VERIFY] (a specific posting to confirm is still live before deep-tailoring).
+
+---
+
+TRACK 1 — Operational roles, NO license required
+
+Mental-health / health-tech operations (named companies, check their own boards)
+• Mood Health — Clinical Operations Specialist (Remote) [VERIFY] — AI-enabled mental health company; an actual ops role (not a clinical/licensed one). Check Mood Health careers + RemoteOK.
+• Grow Therapy — Operations Associate family [PORTAL] — multiple ops roles seen: Insurance Operations, Enrollment Operations (Specialist III), AI Operations Enablement, Program Manager. ~34 roles live. → growtherapy.com/careers (Greenhouse).
+• Rula — Support / Operations / Billing team [PORTAL] — remote ops roles supporting their therapist network. → jobs.ashbyhq.com/rula
+• SonderMind — Referral Coordinator / Assoc. Manager, Referral Coordination [VERIFY] — coordination/ops, non-licensed. → sondermind.com careers.
+• Alma [PORTAL] — ops/coordination roles; check helloalma.com careers.
+• CareFirst BlueCross BlueShield — Medical Management Coordinator (Behavioral Health), Remote [VERIFY] — HS diploma; insurer-side BH ops.
+
+How to search efficiently (these surface fresh ops roles daily)
+• Built In — Healthtech → Operations [PORTAL]: builtin.com/jobs/operations/healthtech (filter Remote)
+• Keywords that dodge licensed roles: "operations associate," "operations coordinator," "clinical operations specialist (non-licensed)," "enrollment operations," "referral coordinator," "program coordinator," "care operations."
+• Add "AI Operations" — a brand-new category (Grow Therapy already posts "AI Operations Enablement") that blends both of your interests.
+
+---
+
+TRACK 2 — Clinical expert for AI (your MMPI/PAI + assessment background is the edge)
+
+What these are: AI labs pay psychology/mental-health experts to evaluate, red-team, and annotate how AI models talk about mental health — testing them on CBT/DBT, assessment tools, psychometrics, diagnostic reasoning, and safety. Your master's + psychometrist experience is exactly the profile they pay premium rates for.
+
+Expert platforms — apply once, get matched to projects [PORTAL]
+• Mercor — Psychology Expert ⭐ — author/review/annotate psychology tasks that evaluate AI reasoning about human behavior. Advanced degree valued (you qualify well). Highest-paying of the group. → work.mercor.com/explore (expect an AI interview + assessments; 2–4 wks to hear back).
+• Outlier (Scale AI) — AI Training for Psychology ⭐ — train models to be accurate/safe in psychology. → app.outlier.ai/en/expert/opportunities (sign up → ID verify → skill assessment → matched projects, weekly pay).
+• DataAnnotation — paid AI training incl. psychology tasks. → datannotation.tech
+• Handshake AI — connects grads/professionals with AI labs for training roles. → joinhandshake.com (Handshake AI).
+
+Honest framing: these are contractor / flexible-hours gigs ($30–$75+/hr depending on expertise), NOT salaried jobs with benefits. Best used two ways: (1) supplemental income while you land a full-time ops role, and (2) a résumé differentiator — "evaluated LLM outputs on clinical/psychometric accuracy and safety" is a standout line that bridges your clinical past and an ops/AI future.
+
+Mental-health AI product companies — watch for in-house clinical/ops roles [VERIFY]
+These build clinical-informed AI and periodically hire non-licensed "clinical content / clinical specialist / trust & safety" staff:
+• Talkspace — launching a mental-health AI agent (summer 2026); actively leaning into AI. Watch talkspace.com/careers.
+• Slingshot AI (Ash), Wysa, Limbic, Sonia, Woebot — clinically-grounded mental-health AI. Check each careers page for "Clinical," "Clinical Content," "Trust & Safety," "Clinical Operations."
+• Spring Health / Lyra / SonderMind / Headspace — all integrating AI; clinical-ops + AI-adjacent roles appear here first.
+
+---
+
+Suggested plan for tomorrow
+1. Apply to Mercor + Outlier (Track 2) first thing — they're rolling, and the assessments take a day or two to clear, so start the clock early. Low effort, high optionality.
+2. Hit Grow Therapy careers + Rula Ashby board (Track 1) — apply to every "Operations Associate / Coordinator" that doesn't require a license.
+3. Verify Mood Health Clinical Operations Specialist is still live; apply if so.
+4. Tell me which 2–3 you want tailored resumes for — I'd suggest one new "AI / Clinical Evaluation"-angled resume (leans on MMPI/PAI, psychometrics, standardized assessment, data integrity) that you can reuse across Mercor/Outlier/Mood Health.
+
+Sources: Mercor Experts (https://www.mercor.com/experts/) · Outlier Opportunities (https://app.outlier.ai/en/expert/opportunities) · Built In Healthtech Ops (https://builtin.com/jobs/operations/healthtech) · Rula Careers (https://jobs.ashbyhq.com/rula) · Grow Therapy (Glassdoor) (https://www.glassdoor.com/Jobs/Grow-Therapy-Jobs-E4188724.htm) · Mood Health Clinical Ops Specialist (https://remoteok.com/remote-jobs/remote-clinical-operations-specialist-mood-health-1129606) · Talkspace AI (BHB) (https://bhbusiness.com/2026/02/19/talkspaces-mental-health-ai-agent-will-jump-into-chatbot-fray-this-summer/)
